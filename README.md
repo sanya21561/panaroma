@@ -5,6 +5,7 @@ This project shows the process of generating a panoramic image from multiple ove
 
 ## Project Structure
 `1.jpg, 2.jpg, ..., 8.jpg`: Input images for creating the panorama.
+
 `panaroma.ipynb`: The main script containing the code for generating the panorama.
 
 ## Prerequisites
